@@ -19,7 +19,7 @@ public class ExcelOp {
 		Cell c1 = r1.getCell(2);
 		String s = c1.getStringCellValue();
 		System.out.println(s);
-		
+		/*****nirmala*/
 		
 
 	}
